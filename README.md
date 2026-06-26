@@ -245,7 +245,9 @@ Documentation         ███████████████████ 
 <div align="center">
 
 ### ❤️ Thank You for Visiting!
-👨‍💻 Mukul Kumar Data Analytics Enthusiast
+👨‍💻 Mukul Kumar
+
+Data Analytics Enthusiast
 
 📞 Phone: 9315005376 | 📧 Email: mukulpal2004@gmail.com
 
